@@ -1,7 +1,7 @@
 #Building docker image to run console application in c++
 
-don't worry about c++ code 
+   don't worry about c++ code 
 
-just check Dockerfile 
+   just check Dockerfile 
 
-there are 3 folders with different building process
+   there are 3 folders with different building process
